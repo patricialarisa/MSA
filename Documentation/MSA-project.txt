@@ -1,0 +1,4 @@
+Supposing you're in a city and you want to travel but you don't know where to go; this is the point where my app should be useful. It should act something like a timetable for airplanes.
+You introduce the location and the app should provide you with all the possible flights having as start that location. The routes are displayed as a list or in a map. Each route should have some useful information like the time it takes off, the company.
+Maybe the map will be an interactive one, meaning that when you click on a route you will receive the information mentioned before. This data will be retrieved from a website or from the database of the airport maybe.
+Or it will have the possibility to introduce the starting location and the destination providing you with the data explained earlier.
